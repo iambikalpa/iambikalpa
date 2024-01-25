@@ -19,8 +19,5 @@ data-target="animated-image.originalImage" width="300">
 
 
 
-[Bikalpa's GitHub stats](https://github-readme-stats.vercel.app/api?username=iambikalpatheme=dark&show_icons=true)
-<!--[Bikalpa's GitHub stats](https://github-readme-stats.vercel.app/api?username=BibinaG&show_icons=true&theme=merko)
--->
-
+![Bikalpa's GitHub stats](https://github-readme-stats.vercel.app/api?username=iambikalpa&show_icons=true&theme=radical)
 
