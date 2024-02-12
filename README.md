@@ -1,6 +1,6 @@
 # Hi there I am Bikalpa Acharya 👋 👩🏾‍💻 #
 
-![](https://komarev.com/ghpvc/?username=your-github-iambikalpa&color=green)]
+![](https://komarev.com/ghpvc/?username=your-github-iambikalpa&color=green)
 
 ## ✨Let's code and build something amazing together!"✨ 
 "Passionate Android developer with a keen interest in crafting seamless user experiences. Proficient in Java and Kotlin, I leverage the power of object-oriented programming to create robust and scalable applications. My journey in Android Studio involves bringing UI/UX concepts to life, ensuring functionality and aesthetics. 
