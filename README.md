@@ -1,6 +1,6 @@
 # Hi there I am Bikalpa Acharya 
-<animated-image data-catalyst="" style="width: 25px;"><a target="_blank" rel="noopener noreferrer nofollow"> 
-<span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+<h3 dir="auto"><a id="user-content-hi-there-i-am-shankar-bhandari-" class="anchor" aria-hidden="true" tabindex="-1" href="#hi-there-i-am-shankar-bhandari-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Hi there, I am Shankar Bhandari <animated-image data-catalyst="" style="width: 25px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" target="_blank">
           
 <span data-target="animated-image.imageContainer">
@@ -23,7 +23,7 @@
             </svg>
           </a>
         </span>
-      </span></animated-image>👩🏾‍💻 
+      </span></animated-image></h3>👩🏾‍💻 
 
 ![](https://komarev.com/ghpvc/?username=your-github-iambikalpa&color=blue)
 
