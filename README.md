@@ -1,4 +1,4 @@
-# Hi there I am Bikalpa Acharya  <animated-image data-catalyst="" style="width: 25px;"><a target="_blank" rel="noopener noreferrer nofollow" 
+# Hi there I am Bikalpa Acharya  <animated-image data-catalyst="" style="width: 25px;"><a target="_blank" rel="noopener noreferrer nofollow"> 
 <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" target="_blank">
           
