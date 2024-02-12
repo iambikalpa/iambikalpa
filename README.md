@@ -1,4 +1,4 @@
-# Hi there I am Bikalpa Acharya 👋👩🏾‍💻 #
+# Hi there I am Bikalpa Acharya 👋 https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif 👩🏾‍💻 #
 
 ![](https://komarev.com/ghpvc/?username=your-github-iambikalpa&color=blue)
 
