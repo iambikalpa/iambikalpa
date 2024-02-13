@@ -15,6 +15,8 @@ data-canonical-src= "https://raw.githubusercontent.com/AswinBarath/AswinBarath/m
 style="max-width: 30%; display: inline-block;" 
 data-target="animated-image.originalImage" width="300">
 
+![Bikalpa's GitHub stats](https://camo.githubusercontent.com/78dc3a679c46d1e008461e6334561734f36d23a04150c59458d12dca55c959a5/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d62696b72616d74756c616468617226)
+
 
  💬 Ask me about Android.<br>
 
