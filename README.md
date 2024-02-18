@@ -1,4 +1,4 @@
-# Hi there I am Bikalpa Acharya  👋😒😒😒😒😒😒😒😒👩🏾‍💻 
+# Hi there I am Bikalpa Acharya  👋👩🏾‍💻 
 
 ![](https://komarev.com/ghpvc/?username=your-github-iambikalpa&color=blue)
 
@@ -13,7 +13,8 @@
 <img align="right" src= "https://raw.githubusercontent.com/AswinBarath/AswinBarath/master/coding.gif"
 data-canonical-src= "https://raw.githubusercontent.com/AswinBarath/AswinBarath/master/coding.gif" 
 style="max-width: 30%; display: inline-block;" 
-data-target="animated-image.originalImage" width="300">
+data-target="animated-image.originalImage" width="300">   
+😊😊😊😊😊😊😊
 
 
 
