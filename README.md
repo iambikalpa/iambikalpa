@@ -9,14 +9,12 @@
 </a> 
 </p>
 
-
 <!-- 📱 Mobile Development Skills:<br> -->
 <img align="right" src= "https://raw.githubusercontent.com/AswinBarath/AswinBarath/master/coding.gif"
 data-canonical-src= "https://raw.githubusercontent.com/AswinBarath/AswinBarath/master/coding.gif" 
 style="max-width: 30%; display: inline-block;" 
 data-target="animated-image.originalImage" width="300">   
 
-sdfsdfsdfsdfs
 
 
  💬 Ask me about Android.<br>
