@@ -20,6 +20,5 @@ sfgsfgsgf
  💬 Ask me about Android.<br>
 
 
-fgsdgsdg
 ![Bikalpa's GitHub stats](https://github-readme-stats.vercel.app/api?username=iambikalpa&show_icons=true&theme=radical)
 
