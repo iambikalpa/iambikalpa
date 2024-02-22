@@ -16,7 +16,6 @@ data-canonical-src= "https://raw.githubusercontent.com/AswinBarath/AswinBarath/m
 style="max-width: 30%; display: inline-block;" 
 data-target="animated-image.originalImage" width="300">   
 
-sfgsfgsgf
 
  💬 Ask me about Android.<br>
 
