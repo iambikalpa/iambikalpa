@@ -9,7 +9,6 @@
 </a> 
 </p>
 
-dsfasfdasf
 
 <!-- 📱 Mobile Development Skills:<br> -->
 <img align="right" src= "https://raw.githubusercontent.com/AswinBarath/AswinBarath/master/coding.gif"
