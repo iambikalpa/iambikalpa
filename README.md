@@ -15,9 +15,8 @@ data-canonical-src= "https://raw.githubusercontent.com/AswinBarath/AswinBarath/m
 style="max-width: 30%; display: inline-block;" 
 data-target="animated-image.originalImage" width="300">   
 
-
  💬 Ask me about Android.<br>
 
 ![Bikalpa's GitHub stats](https://github-readme-stats.vercel.app/api?username=iambikalpa&show_icons=true&theme=radical)
 
-adfasdf
+
