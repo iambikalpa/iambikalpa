@@ -1,5 +1,5 @@
 # Hi there I am Bikalpa Acharya 👋👩🏾‍💻 
-ssss
+
 ![](https://komarev.com/ghpvc/?username=your-github-iambikalpa&color=blue)
 
 ## ✨Let's code and build something amazing together!"✨ 
