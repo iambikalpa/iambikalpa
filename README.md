@@ -1,4 +1,4 @@
-# Hi there I am Bikalpa Acharya 👋👩🏾‍💻 SS
+# Hi there I am Bikalpa Acharya 👋👩🏾‍💻 
 
 ![](https://komarev.com/ghpvc/?username=your-github-iambikalpa&color=blue)
 
